@@ -10,6 +10,8 @@ This fetches data from [Anilist's](https://anilist.co) API and generates images 
 ### Usage
 You'll have to turn off `2FA` before proceeding, and prefer using it on your home network only.
 
+> ⚠ There's a chance that your account mighjt get banned, `Use at your own risk`.
+
 Check [template directory](/src/templates) for `index.html`, which is the template for the image and it uses [Handlebars JS](https://handlebarsjs.com/).
 
 Clone the repository.
